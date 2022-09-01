@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+  }
+  
+  body {
+     min-height: 100vh;
+     background:rgb(11, 4, 29);
+     color: rgba(255, 255, 255, 0.849);
+     display: grid;
+     place-items: center;
+    }
+
+   section{
+     background: rgba(3, 26, 100, 0.719);
+     padding: 20px;
+     border-radius: 5px;
+     text-align: center;
+    
+}
+p {
+  font-size: 100px;
+  
+
+}
