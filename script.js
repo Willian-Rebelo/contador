@@ -18,7 +18,6 @@ mostrarNaTela()
     
 }
 
-
 // jogar o estado de aplicação na tela
 function mostrarNaTela() {
   const p = document.querySelector("#resultado")
